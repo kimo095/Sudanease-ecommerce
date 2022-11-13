@@ -1,0 +1,15 @@
+{
+    "items":[
+        {"id":1,"productName":"iphone","price":8000,"quantity":0},
+        {"id":2,"productName":"Samsung Galaxy","price":8000,"quantity":0},
+        {"id":3,"productName":"Nokia","price":800,"quantity":0},
+        {"id":4,"productName":"samsung screen ","price":10000,"quantity":0},
+        {"id":5,"productName":"sony camera","price":5000,"quantity":0},
+        {"id":6,"productName":"ipad","price":9000,"quantity":0}
+    ],
+    "clients":[
+      {"id":1,"email":"kimo@gmail.com","password":"kimo321"},
+      {"id":2,"email":"kareem@gmail.com","password":"kareem321"}
+    ]
+
+}
